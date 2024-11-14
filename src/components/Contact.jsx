@@ -31,7 +31,7 @@ const Contact = () => {
     emailjs.send('service_zgpvzxv','template_y130yfr',{
       from_name:form.name,
       to_name:"rajesh kumar chappidi",
-      from_email:"from.email",
+      from_email:from.email,
       to_email:'contact@jsmastery.pro',
       message:form.message
     },
