@@ -32,7 +32,7 @@ const Contact = () => {
       from_name:form.name,
       to_name:"rajesh kumar chappidi",
       from_email:form.email,
-      to_email:'contact@jsmastery.pro',
+      to_email:'rk0923730@gmail.com',
       message:form.message
     },
     "27SQhCMli3V8eNe83"
